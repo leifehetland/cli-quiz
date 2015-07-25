@@ -1,7 +1,13 @@
-
+*{
+	font-family: Arial;
+}
 
 .mySister {
-	
+	font-family: Tahoma;
+}
+
+.wasEver {
+	font-family: Tahoma;
 }
 
 .sidebar {
@@ -9,4 +15,11 @@
 	float: right;
 	background-color: blue;
 	border: 2px solid black;
+	padding-bottom: 500px;
+	padding-top: 50px;
+
+}
+
+.notMine {
+	padding-top: 100px;
 }
